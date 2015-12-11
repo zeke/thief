@@ -1,7 +1,7 @@
 {
   "name": "thief",
   "description": "Extract color palettes from images. A node-friendly port of the Color Thief browser library.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/zeke/thief",
   "repository": "zeke/thief",
   "keywords": [
@@ -12,7 +12,7 @@
     "images",
     "canvas",
     "color thief"
-    ],
+  ],
   "dependencies": {
     "canvas": "^1.1.6"
   }
